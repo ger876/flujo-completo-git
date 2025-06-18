@@ -1,1 +1,3 @@
-Version A: Esta es una idea desde la rama A
+
+Esta es una combinacion de ideas A y B para el proyecto
+
