@@ -1,1 +1,1 @@
-Este es el archivo principal del proyecto
+Version A: Esta es una idea desde la rama A
